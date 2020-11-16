@@ -2,18 +2,18 @@
 
 an eCommerce app developed by flutter, dart, and firebase.  
 
-What admin can do?  
-- add product  
-- edit product  
-- delete product  
-- view orders  
+What admin can do?
+add product  
+edit product  
+delete product  
+view orders  
 
-What user can do?  
-- view all products with filters  
-- add products to the cart  
-- show added products on cart  
-- edit or delete products on the cart  
-- remember me option  
+What user can do?
+view all products with filters  
+add products to the cart  
+show added products on cart  
+edit or delete products on the cart  
+remember me option  
 
 ![1_200x](https://user-images.githubusercontent.com/70852067/99306920-8185d280-285e-11eb-8e1a-12cf9e61ee07.png)
 ![2_200x](https://user-images.githubusercontent.com/70852067/99306924-834f9600-285e-11eb-98f9-cfb5291b6c38.png)
@@ -29,17 +29,17 @@ What user can do?
 ![12_200x](https://user-images.githubusercontent.com/70852067/99307009-95c9cf80-285e-11eb-91f3-612518855b3c.png)
 ![13_200x](https://user-images.githubusercontent.com/70852067/99307011-97939300-285e-11eb-9c54-a150af24b521.png)  
 
-- Advanced dart & flutter features  
-- Form validation  
-- Firebase authentication  
-- Handling authentication exceptions  
-- Modal progress hud  
-- State management (provider & multiProvider)  
-- Switching between admin and user  
-- Admin panel (add product  - edit product - delete product - view orders)  
-- Cloud firestore  
-- Stream builder to handle streams  
-- Adding products to cart  
-- Adding orders to firestore  
-- Remember me option  
-- clean, organized & maintainable code  
+Advanced dart & flutter features  
+Form validation  
+Firebase authentication  
+Handling authentication exceptions  
+Modal progress hud  
+State management (provider & multiProvider)  
+Switching between admin and user  
+Admin panel (add product  - edit product - delete product - view orders)  
+Cloud firestore  
+Stream builder to handle streams  
+Adding products to cart  
+Adding orders to firestore  
+Remember me option  
+clean, organized & maintainable code  
