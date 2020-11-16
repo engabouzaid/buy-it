@@ -2,13 +2,13 @@
 
 an eCommerce app developed by flutter, dart, and firebase.  
 
-What admin can do?  
+What admin can do?
 - add product  
 - edit product  
 - delete product  
 - view orders  
 
-What user can do?  
+What user can do?
 - view all products with filters  
 - add products to the cart  
 - show added products on cart  
