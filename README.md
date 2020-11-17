@@ -26,8 +26,7 @@ What user can do?
 ![9_200x](https://user-images.githubusercontent.com/70852067/99306978-906c8500-285e-11eb-8136-913b43a1b7f6.png)
 ![10_200x](https://user-images.githubusercontent.com/70852067/99306989-92364880-285e-11eb-87c5-7c76fa6e0217.png)
 ![11_200x](https://user-images.githubusercontent.com/70852067/99306997-94000c00-285e-11eb-9fcc-23880a283377.png)
-![12_200x](https://user-images.githubusercontent.com/70852067/99307009-95c9cf80-285e-11eb-91f3-612518855b3c.png)
-![13_200x](https://user-images.githubusercontent.com/70852067/99307011-97939300-285e-11eb-9c54-a150af24b521.png)  
+![12_200x](https://user-images.githubusercontent.com/70852067/99307009-95c9cf80-285e-11eb-91f3-612518855b3c.png)  
 
 Advanced dart & flutter features  
 Form validation  
