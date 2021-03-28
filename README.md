@@ -1,7 +1,6 @@
 # cool_outfits
 
 an eCommerce app developed by flutter, dart, and firebase.  
-https://drive.google.com/file/d/14w2HX53xG_pbdwvygXW0Jsd7zCLDL5Pw/view?usp=sharing  
 
 What admin can do?
 - add product  
